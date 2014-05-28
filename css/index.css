@@ -1,0 +1,45 @@
+
+
+ul {
+  
+  position: right;
+  background: rgba(0,0,0,0.5);    
+}
+
+li {
+      position: center;
+      display: inline;
+      padding: 0px 10px 0px 10px;
+}
+
+.container{
+  width:100%;
+}
+
+
+
+#sidebar{
+
+  color: white;
+  background-color: red;
+  height: 70%;
+}
+
+#logo{
+  z-index: 1;
+  margin-top: 20px;
+}
+
+#navbar{
+  width:100%;
+}
+
+li:hover {
+
+  color: white;
+  box-shadow: 2px 2px 4px .75px blue;
+
+}
+
+
+
